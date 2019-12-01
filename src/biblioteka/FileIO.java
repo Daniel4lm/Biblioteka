@@ -21,7 +21,7 @@ public class FileIO {
 			System.out.println("Fajl ne postoji. Kreiranje novog fajla. ");
 			Files.createFile(path);
 		}
-
+		
 		/* Read the lines from the file */
 		while (input.hasNext()) {
 			/* Koristenje delimitera za razdvajanje vrijednosti */
