@@ -1,0 +1,4 @@
+Ja,Wolfgang,Hilbig,Fraktura,Roman,978,true,
+22 u hladu,Dalibor,Šimpraga,Celeber,Antlogija,953,true,
+61 sat,Lee,Child,Znanje,Roman,978,true,
+Abeceda nestajanja,Robert,Vrbnjak,Dušević&Kršovnik,Beletristika,221,true,
